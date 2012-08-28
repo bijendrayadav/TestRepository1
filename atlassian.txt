@@ -1,0 +1,26 @@
+Atlassian Account Information:
+
+https://my.atlassian.com/login
+Email: testingsynapse1211@gmail.com
+password:p@ssw0rd1111
+
+
+
+https://synapsetest.atlassian.net
+
+username: testingsynapse
+password:p@ssw0rd1111
+
+
+developerA: userA
+
+username:deva
+password:p@ssw0rd1111
+
+developerB: userB
+
+username:devb
+password:p@ssw0rd1111
+
+
+
